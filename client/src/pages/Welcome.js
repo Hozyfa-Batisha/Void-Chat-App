@@ -5,7 +5,7 @@ export default function Welcome() {
 
   return (
     <div className="min-h-screen flex flex-col justify-center items-center bg-black text-green-500">
-      <h1 className="text-4xl mb-8">Welcome to Smils</h1>
+      <h1 className="text-4xl mb-8">Welcome to Void Chat</h1>
       <div className="space-x-4">
         <button
           className="bg-green-600 px-4 py-2 rounded hover:bg-green-700"
